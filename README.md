@@ -43,7 +43,7 @@ const hemModi = {
         degree: "B.Tech — Computer Engineering",
         university: "Pandit Deendayal Energy University (PDEU)",
         batch: "2023 – 2027",
-        cgpa: "8.55 / 10"
+        cgpa: "8.64 / 10"
     },
 
     🔬 domains: [
@@ -135,13 +135,6 @@ const hemModi = {
 | 📸 | [**SnapClass — AI Attendance System**](https://github.com/iamhm119/snapclass) | AI-powered smart attendance system using face recognition with real-time monitoring & analytics | `Python` `Streamlit` `Supabase` |
 | 🧠 | [**Hire-AI — Smart Recruitment**](https://github.com/iamhm119/Hire-AI) | AI-driven hiring solution that evaluates candidates, reduces manual effort & improves accuracy | `Python` `AI/ML` |
 | 📄 | [**PDF Chatbot (RAG)**](https://github.com/iamhm119/pdf-chatbot-rag) | Offline PDF Q&A Chatbot using RAG, FAISS, HuggingFace embeddings & local LLM via Ollama | `RAG` `FAISS` `LLM` |
-| 🏠 | [**House Price Prediction (ANN)**](https://github.com/iamhm119/house-price-prediction-ann) | House price predictor using Artificial Neural Networks with Flask web deployment | `ANN` `Flask` `TensorFlow` |
-| 😊 | [**Emotion Detection App**](https://github.com/iamhm119/emotion-detection-app) | NLP-based emotion detection using TF-IDF + Logistic Regression, deployed on Streamlit Cloud | `NLP` `Streamlit` `ML` |
-| 🐱🐶 | [**Cat vs Dog Classifier**](https://github.com/iamhm119/cat-vs-dog-classifier) | Image classifier using Transfer Learning & CNNs with Streamlit interface | `CNN` `Transfer Learning` |
-| 💳 | [**Fraud Detection System**](https://github.com/iamhm119/Fraud-Detection-App) | ML pipeline for detecting fraudulent transactions with real-time prediction | `Scikit-learn` `Streamlit` |
-| 📚 | [**Book Recommender System**](https://github.com/iamhm119/Book-Recommender-System) | Recommendation engine using collaborative & content-based filtering | `ML` `Python` |
-| ❤️ | [**Heart Disease Prediction**](https://github.com/iamhm119/Heart-Disease-Prediction-App) | KNN-based heart disease risk predictor with data scaling & preprocessing | `KNN` `Streamlit` |
-| 📩 | [**SMS Spam Classifier**](https://github.com/iamhm119/sms-spam-slassifier) | NLP-powered spam detection using scikit-learn & text processing pipeline | `NLP` `Scikit-learn` |
 | 🎓 | [**LearnEarn**](https://github.com/iamhm119/LearnEarn) | Gamified education platform — earn coins, unlock themes & compete in live events | `JavaScript` `HTML/CSS` |
 
 </div>
