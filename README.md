@@ -213,16 +213,7 @@ const hemModi = {
 
 </div>
 
-<br>
 
-<!-- ───── Snake Contribution Graph ───── -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamhm119/iamhm119/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamhm119/iamhm119/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/iamhm119/iamhm119/output/github-snake.svg" />
-  </picture>
-</div>
 
 <!-- ───── Footer Wave ───── -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
